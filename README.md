@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lukesawney
-- 👀 I’m interested in data science
-- 🌱 I’m currently studying MSc Data Science @ Uni of Manchester
+- 👀 I’m interested in all things data
+- 💻 Consultant @ IBM
+- 🌱 MSc Data Science from the Uni of Manchester
 - 📫 How to reach me: linkedin or twitter
 
 <!---
